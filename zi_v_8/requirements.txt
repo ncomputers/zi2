@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-jinja2
-opencv-python
-loguru
-ultralytics
-deep-sort-realtime
-redis
-python-multipart
